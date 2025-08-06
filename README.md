@@ -16,5 +16,4 @@ This is a basic Spring Boot project demonstrating how to secure a REST API endpo
 - Maven or Gradle
 - An IDE like IntelliJ IDEA or VS Code (optional)
 
-### Project Structure
 
